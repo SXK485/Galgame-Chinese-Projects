@@ -1,0 +1,57 @@
+[
+    {
+        "index": 1,
+        "name": "",
+        "pre_jp": "str 155 そら個別３",
+        "post_jp": "str 155 そら個別３",
+        "pre_zh": "str 155 空个别３",
+        "proofread_zh": "str 155 空个别3",
+        "trans_by": "GPT-4",
+        "proofread_by": "",
+        "post_zh_preview": "str 155 空个别３"
+    },
+    {
+        "index": 2,
+        "name": "暁",
+        "pre_jp": "「そらー……なっ！？」",
+        "post_jp": "そらー……なっ！？",
+        "pre_zh": "空——唔！？",
+        "proofread_zh": "",
+        "trans_by": "GPT-4",
+        "proofread_by": "",
+        "post_zh_preview": "「空——唔！？」"
+    },
+    {
+        "index": 3,
+        "name": "そら",
+        "pre_jp": "「……えへっ①」",
+        "post_jp": "……えへっ■",
+        "pre_zh": "……诶嘿■",
+        "proofread_zh": "",
+        "trans_by": "GPT-4",
+        "proofread_by": "",
+        "post_zh_preview": "「……诶嘿①」"
+    },
+    {
+        "index": 4,
+        "name": "暁",
+        "pre_jp": "「な、何やってるんだよ！？」",
+        "post_jp": "な、何やってるんだよ！？",
+        "pre_zh": "你、你在干什么啊！？",
+        "proofread_zh": "",
+        "trans_by": "GPT-4",
+        "proofread_by": "",
+        "post_zh_preview": "「你、你在干什么啊！？」"
+    },
+    {
+        "index": 5,
+        "name": "そら",
+        "pre_jp": "「こーした方が、にーちゃは嬉しいでしょーが……んふっ」",
+        "post_jp": "こーした方が、にーちゃは嬉しいでしょーが……んふっ",
+        "pre_zh": "这样做的话，哥哥会很高兴的吧……嗯呼",
+        "proofread_zh": "",
+        "trans_by": "GPT-4",
+        "proofread_by": "",
+        "post_zh_preview": "「这样做的话，哥哥会很高兴的吧……嗯呼」"
+    }
+]

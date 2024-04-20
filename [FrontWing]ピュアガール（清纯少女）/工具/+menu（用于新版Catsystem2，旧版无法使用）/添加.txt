@@ -1,0 +1,3 @@
+<language>
+<OPTTABLE>language_cn.txt</OPTTABLE>
+</language>

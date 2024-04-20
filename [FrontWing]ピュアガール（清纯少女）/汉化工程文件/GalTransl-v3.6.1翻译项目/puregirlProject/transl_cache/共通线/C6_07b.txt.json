@@ -1,0 +1,178 @@
+[
+    {
+        "index": 1,
+        "name": "",
+        "pre_jp": "str 155 共通６日目―７",
+        "post_jp": "str 155 共通６日目―７",
+        "pre_zh": "str 155 共通6日目-7",
+        "proofread_zh": "str 155 共通第六天-7",
+        "trans_by": "claude-3-opus-20240229",
+        "proofread_by": "",
+        "post_zh_preview": "str 155 共通6日目-7"
+    },
+    {
+        "index": 2,
+        "name": "暁",
+        "pre_jp": "「ふぁ……ちょっと眠くなってきたな……」",
+        "post_jp": "ふぁ……ちょっと眠くなってきたな……",
+        "pre_zh": "呼啊……有点儿困了……",
+        "proofread_zh": "",
+        "trans_by": "claude-3-opus-20240229",
+        "proofread_by": "",
+        "post_zh_preview": "「呼啊……有点儿困了……」"
+    },
+    {
+        "index": 3,
+        "name": "暁",
+        "pre_jp": "「っと……」",
+        "post_jp": "っと……",
+        "pre_zh": "哎……",
+        "proofread_zh": "",
+        "trans_by": "claude-3-opus-20240229",
+        "proofread_by": "",
+        "post_zh_preview": "「哎……」"
+    },
+    {
+        "index": 4,
+        "name": "",
+        "pre_jp": "ズボンのファスナーに手を伸ばした時……",
+        "post_jp": "ズボンのファスナーに手を伸ばした時……",
+        "pre_zh": "正要伸手去拉裤子拉链的时候……",
+        "proofread_zh": "",
+        "trans_by": "claude-3-opus-20240229",
+        "proofread_by": "",
+        "post_zh_preview": "正要伸手去拉裤子拉链的时候……"
+    },
+    {
+        "index": 5,
+        "name": "そらの声",
+        "pre_jp": "「にーちゃ！」",
+        "post_jp": "にーちゃ！",
+        "pre_zh": "哥哥！",
+        "proofread_zh": "",
+        "trans_by": "claude-3-opus-20240229",
+        "proofread_by": "",
+        "post_zh_preview": "「哥哥！」"
+    },
+    {
+        "index": 6,
+        "name": "暁",
+        "pre_jp": "「うわわわっ！？　な、何だよそら！　いきなり入ってくるなよ！？」",
+        "post_jp": "うわわわっ！？　な、何だよそら！　いきなり入ってくるなよ！？",
+        "pre_zh": "哇啊！？怎、怎么了空！别突然闯进来啊！？",
+        "proofread_zh": "",
+        "trans_by": "claude-3-opus-20240229",
+        "proofread_by": "",
+        "post_zh_preview": "「哇啊！？怎、怎么了空！别突然闯进来啊！？」"
+    },
+    {
+        "index": 7,
+        "name": "そら",
+        "pre_jp": "「恋とリストラは、いつだって突然なんだよ！」",
+        "post_jp": "恋とリストラは、いつだって突然なんだよ！",
+        "pre_zh": "恋爱和失业，总是来得措手不及的！",
+        "proofread_zh": "",
+        "trans_by": "claude-3-opus-20240229",
+        "proofread_by": "",
+        "post_zh_preview": "「恋爱和失业，总是来得措手不及的！」"
+    },
+    {
+        "index": 8,
+        "name": "暁",
+        "pre_jp": "「ワケ分かんないこと言うな！」",
+        "post_jp": "ワケ分かんないこと言うな！",
+        "pre_zh": "别说些莫名其妙的话！",
+        "proofread_zh": "",
+        "trans_by": "claude-3-opus-20240229",
+        "proofread_by": "",
+        "post_zh_preview": "「别说些莫名其妙的话！」"
+    },
+    {
+        "index": 9,
+        "name": "そら",
+        "pre_jp": "「そらがこんなにモヤモヤするのは、にーちゃのおち○ちんのせいなんだよ！」",
+        "post_jp": "そらがこんなにモヤモヤするのは、にーちゃのおち○ちんのせいなんだよ！",
+        "pre_zh": "空之所以心里这么烦躁，都是哥哥的小XX不好！",
+        "proofread_zh": "空之所以心里这么烦躁，都是哥哥的小○○不好",
+        "trans_by": "claude-3-opus-20240229",
+        "proofread_by": "",
+        "post_zh_preview": "「空之所以心里这么烦躁，都是哥哥的小XX不好！」"
+    },
+    {
+        "index": 10,
+        "name": "暁",
+        "pre_jp": "「な、なんで？」",
+        "post_jp": "な、なんで？",
+        "pre_zh": "为、为什么？",
+        "proofread_zh": "",
+        "trans_by": "claude-3-opus-20240229",
+        "proofread_by": "",
+        "post_zh_preview": "「为、为什么？」"
+    },
+    {
+        "index": 11,
+        "name": "そら",
+        "pre_jp": "「とにかく、今からおち○ちんチェックするよ！」",
+        "post_jp": "とにかく、今からおち○ちんチェックするよ！",
+        "pre_zh": "总之，现在要给小XX做检查了！",
+        "proofread_zh": "总之，现在要给小○○做检查了！",
+        "trans_by": "claude-3-opus-20240229",
+        "proofread_by": "",
+        "post_zh_preview": "「总之，现在要给小XX做检查了！」"
+    },
+    {
+        "index": 12,
+        "name": "暁",
+        "pre_jp": "「なっ、お、おい、ちょっ……」",
+        "post_jp": "なっ、お、おい、ちょっ……",
+        "pre_zh": "什、喂，等……",
+        "proofread_zh": "",
+        "trans_by": "claude-3-opus-20240229",
+        "proofread_by": "",
+        "post_zh_preview": "「什、喂，等……」"
+    },
+    {
+        "index": 13,
+        "name": "",
+        "pre_jp": "あっという間にパンツを下ろされ、ペニスが丸出しの状態になってしまった。",
+        "post_jp": "あっという間にパンツを下ろされ、ペニスが丸出しの状態になってしまった。",
+        "pre_zh": "转眼间内裤就被脱了下来，XX完全暴露在外。",
+        "proofread_zh": "转眼间内裤就被脱了下来，阴茎完全暴露在外。",
+        "trans_by": "claude-3-opus-20240229",
+        "proofread_by": "",
+        "post_zh_preview": "转眼间内裤就被脱了下来，XX完全暴露在外。"
+    },
+    {
+        "index": 14,
+        "name": "暁",
+        "pre_jp": "「そ、そら……」",
+        "post_jp": "そ、そら……",
+        "pre_zh": "空……",
+        "proofread_zh": "",
+        "trans_by": "claude-3-opus-20240229",
+        "proofread_by": "",
+        "post_zh_preview": "「空……」"
+    },
+    {
+        "index": 15,
+        "name": "そら",
+        "pre_jp": "「おしっこしたがってたから、半勃ちっぽいね……はむっ……」",
+        "post_jp": "おしっこしたがってたから、半勃ちっぽいね……はむっ……",
+        "pre_zh": "刚才还想尿尿，所以已经有点半勃了呢……哈姆……",
+        "proofread_zh": "",
+        "trans_by": "claude-3-opus-20240229",
+        "proofread_by": "",
+        "post_zh_preview": "「刚才还想尿尿，所以已经有点半勃了呢……哈姆……」"
+    },
+    {
+        "index": 16,
+        "name": "暁",
+        "pre_jp": "「っっ！？」",
+        "post_jp": "っっ！？",
+        "pre_zh": "唔！？",
+        "proofread_zh": "",
+        "trans_by": "claude-3-opus-20240229",
+        "proofread_by": "",
+        "post_zh_preview": "「唔！？」"
+    }
+]

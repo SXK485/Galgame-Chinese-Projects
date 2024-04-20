@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="Shift_JIS"?>
+<document>
+  <!-- デフォルトカーソル定義 -->
+  <default>cursor/cursor.cur</default>
+
+  <!-- 以下は必要に応じて追加して下さい -->
+  <!-- 画面スクリプトで [xchgcursor SELECT] という感じで変更します。-->
+  <SELECT>cursor\select.ani</SELECT>
+
+</document>
